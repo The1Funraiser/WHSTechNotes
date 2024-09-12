@@ -12,3 +12,14 @@ Today, I created my first GitHub account and repository. I'm excited to start us
 Precision can affect the outcome of the program, say you didn't put any effor in it, it will diminish the quality and accuracy. In addition, you do put effort in your work, the quality of it will be greater, and further greater the accuracy.
 Missing steps and details can decrease the effort put in the coding and fail at doing the work.
 It good to have good habit to be great in paying attention to detail in your early coding journey, because you want to succeed and make it stand out by making it unique.
+
+# September 10, 2024
+
+For Me: I had no difficulty while doing the journal writing prompts.
+For You: I had no challenges while I was doing the journal writing prompts.
+
+# September 12, 20244
+
+The 5 P's of Wagner core values consist of polite, productive, prompt, positve, and prepared.
+One of the 5 p's I've chosen is prepared. Why did I choose this for one? Its because you have to be prepared on the activities or assignments you will be doing. Being prepared helps you be ready for whats coming on in the future. 
+Preparation is able benefit for me while in computer science class. How so? Well I've been doing a lot of the assignments I have gotten to do, and I've been being prepared for the upcoming activites that my teachers will give me.
