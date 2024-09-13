@@ -1,4 +1,4 @@
-# September 5, 2024
+4# September 5, 2024
 
 3 sensors found on sphero bolt was that bolt consists of compass, light, and infrared sensors.
 One of the 3 sensors im going to pick from sphero BOLT is compass. How does the compass sensor work inside sphero BOLT? Well, it basically works like a regular compass that you probably own. Where sphero can find magnetic north on earth. Sphero bolt will spin and automatically sync to the same offset north that your device is pointed to.
@@ -18,8 +18,13 @@ It good to have good habit to be great in paying attention to detail in your ear
 For Me: I had no difficulty while doing the journal writing prompts.
 For You: I had no challenges while I was doing the journal writing prompts.
 
-# September 12, 20244
+# September 12, 2024
 
 The 5 P's of Wagner core values consist of polite, productive, prompt, positve, and prepared.
 One of the 5 p's I've chosen is prepared. Why did I choose this for one? Its because you have to be prepared on the activities or assignments you will be doing. Being prepared helps you be ready for whats coming on in the future. 
 Preparation is able benefit for me while in computer science class. How so? Well I've been doing a lot of the assignments I have gotten to do, and I've been being prepared for the upcoming activites that my teachers will give me.
+
+# September 13, 2024
+
+The 4 C's consist of confident, courageous, consistent, and communicate.
+One of the 4 c's I've picked is communicate.Why did I choose this? Its because it can benefit me for if I have any trouble with any of the assignments. Its good to communicate to your classmates or teacher to help you. Say you had a problem with coding, like everytime you ran the programm, it wouldn't work. So, you can tell your teacher that you need help with the problem. 
