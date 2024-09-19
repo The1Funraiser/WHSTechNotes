@@ -28,3 +28,11 @@ Preparation is able benefit for me while in computer science class. How so? Well
 
 The 4 C's consist of confident, courageous, consistent, and communicate.
 One of the 4 c's I've picked is communicate.Why did I choose this? Its because it can benefit me for if I have any trouble with any of the assignments. Its good to communicate to your classmates or teacher to help you. Say you had a problem with coding, like everytime you ran the programm, it wouldn't work. So, you can tell your teacher that you need help with the problem. 
+
+#  September 18, 2024
+
+The challenges we faced when making our maze was that we were having issues with the maze. Like it wasn't going where it was post go go, however we soon found out it was the paper. It was in the wrong direction, so thats why it wasn't going inside the lines.
+
+# September 19, 2024
+
+We had to make adjustments to the rotations, and how long it had to travel to reach the other point of the maze. In addition to the maze, we had to rotate the paper, to successfully complete the maze.
