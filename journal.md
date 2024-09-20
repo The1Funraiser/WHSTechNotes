@@ -1,22 +1,22 @@
+# August 21, 2024
+
+Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
+
 # September 5, 2024
 
 3 sensors found on sphero bolt was that bolt consists of compass, light, and infrared sensors.
 One of the 3 sensors im going to pick from sphero BOLT is compass. How does the compass sensor work inside sphero BOLT? Well, it basically works like a regular compass that you probably own. Where sphero can find magnetic north on earth. Sphero bolt will spin and automatically sync to the same offset north that your device is pointed to.
 
-# August 21, 2024
+# September 10, 2024
 
-Today, I created my first GitHub account and repository. I'm excited to start using GitHub for my projects!
+For Me: I had no difficulty while doing the journal writing prompts.
+For You: I had no challenges while I was doing the journal writing prompts.
 
 # September 11, 2024
 
 Precision can affect the outcome of the program, say you didn't put any effor in it, it will diminish the quality and accuracy. In addition, you do put effort in your work, the quality of it will be greater, and further greater the accuracy.
 Missing steps and details can decrease the effort put in the coding and fail at doing the work.
 It good to have good habit to be great in paying attention to detail in your early coding journey, because you want to succeed and make it stand out by making it unique.
-
-# September 10, 2024
-
-For Me: I had no difficulty while doing the journal writing prompts.
-For You: I had no challenges while I was doing the journal writing prompts.
 
 # September 12, 2024
 
@@ -36,3 +36,8 @@ The challenges we faced when making our maze was that we were having issues with
 # September 19, 2024
 
 We had to make adjustments to the rotations, and how long it had to travel to reach the other point of the maze. In addition to the maze, we had to rotate the paper, to successfully complete the maze.
+
+# September 20, 2024
+
+What was the hour code activity I played? The activity I played on the site, was make a t-rex game. What is something I found interesting within the activity? What I found interesting about the game was that I could actually place the coding inside the game, which I could make the dinosaur. And placing obstacles, music, and many more i've been adding within the game. I've understand how complex it is to make your own game and the mechanics within the game. What were the difficulties I had on the acttivity? The difficulties I had when I was working on the activity is that I can't make the dinosaur move, i've been trying to fix the problem. But cant seem to fix it, and I don't know why its not working. So, i'm going to restart from the beginning and do it all over again. So, I suppose it should work again. I restarted the activity, and it worked. I was able to finish the activity.
+
