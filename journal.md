@@ -46,4 +46,8 @@ What was the hour code activity I played? The activity I played on the site, was
  What did I found easier, spyro BOLT or python? What I found easier so far during right now was python. How so? Well inside python, you have to use certain words or phrases to move a character to its objective or to an enemy to attack. Unlike spyro BOLT, In order to make a sequence happen, I have to use a lot of coding inside the app in order to make spyro go to a certain point in order to reach the objective. And Whenever doing a different assignment, you'll need lot of more coding in order to succeed. Python just makes it easier to operate and I'd say more fun.
 
  How did the two approaches help you solve coding challenges? Well in python, in order to start the objective, you have the basics like move left, right, up, and down. And a few more codes. However in spyro BOLT, in order to atleast start the objective, you have to put a lot of coding to make it right or succeed in the assignment.
+
+ # September 30, 2024
+
+ How would your day be different without this use of computer science? My day would be slightly ruined a bit. Why? Well, I enjoy using spyro to make events like the virus assignment. And I also like using python, I like how I can play like an RNG game.
  
