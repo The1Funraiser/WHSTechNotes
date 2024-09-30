@@ -41,3 +41,9 @@ We had to make adjustments to the rotations, and how long it had to travel to re
 
 What was the hour code activity I played? The activity I played on the site, was make a t-rex game. What is something I found interesting within the activity? What I found interesting about the game was that I could actually place the coding inside the game, which I could make the dinosaur. And placing obstacles, music, and many more i've been adding within the game. I've understand how complex it is to make your own game and the mechanics within the game. What were the difficulties I had on the acttivity? The difficulties I had when I was working on the activity is that I can't make the dinosaur move, i've been trying to fix the problem. But cant seem to fix it, and I don't know why its not working. So, i'm going to restart from the beginning and do it all over again. So, I suppose it should work again. I restarted the activity, and it worked. I was able to finish the activity.
 
+ September 27,2024 
+
+ What did I found easier, spyro BOLT or python? What I found easier so far during right now was python. How so? Well inside python, you have to use certain words or phrases to move a character to its objective or to an enemy to attack. Unlike spyro BOLT, In order to make a sequence happen, I have to use a lot of coding inside the app in order to make spyro go to a certain point in order to reach the objective. And Whenever doing a different assignment, you'll need lot of more coding in order to succeed. Python just makes it easier to operate and I'd say more fun.
+
+ How did the two approaches help you solve coding challenges? Well in python, in order to start the objective, you have the basics like move left, right, up, and down. And a few more codes. However in spyro BOLT, in order to atleast start the objective, you have to put a lot of coding to make it right or succeed in the assignment.
+ 
