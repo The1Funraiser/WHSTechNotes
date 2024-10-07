@@ -51,3 +51,16 @@ What was the hour code activity I played? The activity I played on the site, was
 
  How would your day be different without this use of computer science? My day would be slightly ruined a bit. Why? Well, I enjoy using spyro to make events like the virus assignment. And I also like using python, I like how I can play like an RNG game.
  
+# October 3, 2024
+
+Job Title: What is the job or career path you researched? The job path i've researched is an animator.
+
+Job Description: What are the main responsibilities or tasks for this role? An animator creates moving images, often for television programs, films or video games. Some animators create hand-drawn images, but others work primarily with computer-generated images
+
+Skills Required: What programming languages, tools, or skills are important for this position? Using specialized computer programs, they create two- or three-dimensional models of characters or environments and add motion effects to make it appear as though they're moving realistically. and animators often also study the movements of people, animals and objects and apply this knowledge to their work.
+
+Education and Experience: What level of education or experience is typically needed for this role? A bachelor's degree in computer graphics, animation, fine arts, or a related field. 
+
+Career Growth: What opportunities for growth or advancement are available in this career? Multimedia artists and animators who show strong teamwork and time-management skills can advance to supervisory positions
+
+Reflection: How does this job align with your interests and goals in computer science? It could plan to add value in this position, develop my skills to help grow a business or company, and eventually move into roles of greater responsibility.
