@@ -51,7 +51,7 @@ What was the hour code activity I played? The activity I played on the site, was
 
  How would your day be different without this use of computer science? My day would be slightly ruined a bit. Why? Well, I enjoy using spyro to make events like the virus assignment. And I also like using python, I like how I can play like an RNG game.
  
-# October 3, 2024
+# October 7, 2024
 
 Job Title: What is the job or career path you researched? The job path i've researched is an animator.
 
