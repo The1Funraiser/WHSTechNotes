@@ -78,3 +78,8 @@ How does coding enhances creativity or collaboration? Coding enhances creativity
  How does AI improve efficiency and innovation in industries like healthcare, education, or transportation? AI can improve the efficiency in healthcare industries by accurately diagnosing patients. And accurately treating patients too. Ai can prove the efficiency in transportation industries by ehancing public transportation and adapting schedule accordingly. And can suggest alternate transportation methods. And AI can improve the efficiency in education industires by providing feed back to imrpove  learning outcomes. And help educators in identifying gaps in student knowledge.
 
   What are some risks AI poses, such as job automation, bias in algorithms, or cybersecurity threats? Some risks Ai can pose to jobs by taking jobs that requires coding or researching in the technology industries. And a potential in replacing human workers leading to mass unemployment. This can distrupt the economy and thus leading to lowering the economy and labor demands. And people can use AI to takeover peoples private security. And using their information to sell it on the markey.
+
+  # October 28, 2024
+
+  How has programmming, security, or techology influnced the elections today? Security ensures the integrity of elecctions. Technology allows people to access information about the candidates that are participating.For proramming, candiates can use social media to boost their votes.
+
