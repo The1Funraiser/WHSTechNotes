@@ -83,3 +83,13 @@ How does coding enhances creativity or collaboration? Coding enhances creativity
 
   How has programmming, security, or techology influnced the elections today? Security ensures the integrity of elecctions. Technology allows people to access information about the candidates that are participating.For proramming, candiates can use social media to boost their votes.
 
+  # November 4, 2024
+
+  Its important for the reason for is, if someone takes your personal and sensitive information, it can lead to losing your identity and commit fraud.
+
+  You can create a strong password. Can switch between accounts. Verifying devices on sign in. Update access credentials. Manage personal access tokens. And Reviewing your SSH keys. Deploy keys.
+
+  In that type of situtation, i'd feel scared, and nervous. Why? For the reasons are there would be people making fun of the personal information that I had accidentally shared. Anc could change how I am from now. I'm saying this as a situtaiton IF it had happen to me.
+
+  You can limit the data access and sharing to only those who need it and only for the purposes that are relevant and necessary for your collaboration.
+
