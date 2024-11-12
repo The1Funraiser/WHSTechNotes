@@ -93,3 +93,8 @@ How does coding enhances creativity or collaboration? Coding enhances creativity
 
   You can limit the data access and sharing to only those who need it and only for the purposes that are relevant and necessary for your collaboration.
 
+# November 12, 2024
+
+What is a current event that relates to what i've been learning in class? a current events that relates to the stuff i've been learning in class is during the elections in 2024. What happen in the 2024? It was when Kamala was using social media for her campaign. How does this relate to the stuff i've been learning in class? Well, social media uses programming. 
+
+How does the advancements in computer science or technology could play a role in addressing this event or issues in the future? I'd think the advancements of computer science or technology plays a role in issues in the future by technology could predict when a harvest will produce enough food, or if there woudln't be enough food. How so? Well, with technology getting more and more advance, it can help farmers with their crops. By wether making predictions to help the farmer make adjustments or help change stuff around to make food.
