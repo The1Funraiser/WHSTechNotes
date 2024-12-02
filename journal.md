@@ -102,3 +102,7 @@ How does the advancements in computer science or technology could play a role in
 # November 19, 2024
 
 As we begin to grow, technology has began to come more and more advance with the upcoming years. Technology has made distributing and the process of food faster and effciently. Technology can produce food with less labor as humans do. So, this makes food more affordable to consumers, as it takes less time to make it. What are negative effects of relying on technology? A negative effect on relying on technology is the increase in energy costs.
+
+# December 2, 2024
+
+Artificial intelligence (AI) continues to shape the way we live and work. This week, research one recent development in AI or another emerging technology (e.g., quantum computing, renewable energy tech, AR/VR, etc.). Concerns that I have for AI is how this would affect the economy, because Ai is able to replace human worker at their jobs. An innovative way this technology could be used in my field of interest is an advance medical device which can help Doctors, etc. What ethical considerations might need to be addressed as this technology evolves?  The development of technology as it evolves.
