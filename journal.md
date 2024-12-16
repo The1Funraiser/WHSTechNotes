@@ -110,3 +110,7 @@ Artificial intelligence (AI) continues to shape the way we live and work. This w
 # December 9, 2024
 
 What does the term, brainrot mean to me? I believe the term, brainrot is a term where it deprived from the internet. Where the content is used from the internet to be used in a setnence which is post to be used in a humorous tone. I believe the digital media can have a positive impact to my mental well-being this year. Why? Well, the digital media has helped me understand things I've been having trouble with. 
+
+# December 16, 2024
+
+Am I looking forward to this winter break? I am looking forward to this winter break. Why? Well, its because Christmas will be on the winterbreak, and I can't wait to see whats in my presents.
