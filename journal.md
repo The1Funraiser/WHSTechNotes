@@ -114,3 +114,7 @@ What does the term, brainrot mean to me? I believe the term, brainrot is a term 
 # December 16, 2024
 
 Am I looking forward to this winter break? I am looking forward to this winter break. Why? Well, its because Christmas will be on the winterbreak, and I can't wait to see whats in my presents.
+
+# January 8, 2025
+
+What did I most enjoy about this class? I enjoyed the minecraft coding in this class. What could I improve on? I think I could prove on my coding in this class. A project I'd like to explore in this class is to try coding for a drone. Something specific i'd like to learn in this class is coding. And I'm not interested in pursuing any certifications related in this class. 
