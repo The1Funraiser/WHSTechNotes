@@ -118,3 +118,7 @@ Am I looking forward to this winter break? I am looking forward to this winter b
 # January 8, 2025
 
 What did I most enjoy about this class? I enjoyed the minecraft coding in this class. What could I improve on? I think I could prove on my coding in this class. A project I'd like to explore in this class is to try coding for a drone. Something specific i'd like to learn in this class is coding. And I'm not interested in pursuing any certifications related in this class. 
+
+# January 13, 2025
+
+ The tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles. What are my thoughts on this shift? My thoughts upon this is that AI will replace the majority of tech jobs. I think AI will limit the opportunities for workers. I would prepare myself to research the changes in the job market. I'd continue my work to make sure i'm not missing out on anything.
