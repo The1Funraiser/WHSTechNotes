@@ -122,3 +122,8 @@ What did I most enjoy about this class? I enjoyed the minecraft coding in this c
 # January 13, 2025
 
  The tech industry is shifting towards prioritizing artificial intelligence (AI) skills over traditional tech roles. What are my thoughts on this shift? My thoughts upon this is that AI will replace the majority of tech jobs. I think AI will limit the opportunities for workers. I would prepare myself to research the changes in the job market. I'd continue my work to make sure i'm not missing out on anything.
+
+ # January 22, 2025
+
+How do you think government intervention impacts technology companies and their users? Government interventions with technology companies can get their company banned, this effects the users as they don't know what other platform to use, as they've used a specific tech company for their entertainment. In your opinion, how could companies like TikTok address security concerns while continuing to operate globally? The issue with Tik Tok was that it was claimed to be part of the Chinese companies to manipulate & gain access of the data collected of the people through the app. Imagine you’re a developer at TikTok working on a new feature to increase user privacy. Describe one feature or policy you would implement. If I was a developer of Tik Tok, a security feature i'd add to increase user privacy is to add an AI to make sure there is no data stolen.  
+ 
