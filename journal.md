@@ -135,3 +135,12 @@ How do you think government intervention impacts technology companies and their 
     | Kayla    | GMC Sierra    |	Fixed Wrong Problem       |
     | Bart     | Toyota Corolla    |Left Stains On Carpet        |
     | Harrison |	Subaru Forester     |	Left The Oil Cap Off         |
+
+    # February 3, 2025
+
+    1. computer algrorythms manage airspace and prevent collisions by through  advance algrorithms, radar systems, and communication networks that track the movements of aircarft in real-time to ensure safe sand efficient air traffic control. 
+    2. The role of real-time alerts, auto pilot systems, and AI-driven decision-making is constantly analyzing data and providing recommendations to enhance sfaety and efficiently.
+    3. Miscommunication bewteen different software systems and coding flaws lead to accidents by ctrical errors or malfunctions, which could potentially cause accidents.
+    4. I believe both poor interface design and unclear alerts had played a role in the crash.
+    5. Hacking, jamming, or cyber vulnerabilities can pose a serious risks to air traffic manaegment by disrupting communication systems and safety protocols.
+    6. Machine learning  can be used to predict and prevent accident by 
