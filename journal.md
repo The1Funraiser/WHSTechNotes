@@ -144,3 +144,8 @@ How do you think government intervention impacts technology companies and their 
     4. I believe both poor interface design and unclear alerts had played a role in the crash.
     5. Hacking, jamming, or cyber vulnerabilities can pose a serious risks to air traffic manaegment by disrupting communication systems and safety protocols.
     6. Machine learning can be used to predict and prevent accident by analyzing past acidents to get the data to identify patterns to help predict and prevent future accidents by adding more safety measures.
+
+
+# February 11, 2025
+
+What type of data structures (e.g., lists, dictionaries, databases) would you use to store player performance statistics? The type of structure I'd use to store player performance statistics is a simple and efficient data structure would be array. Theres using a dictionary data structure to store player performance statistics. There is hash table data structure to also store player performance statistics. And another option is a linked list tto store player performance statistics.
