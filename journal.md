@@ -153,3 +153,7 @@ What type of data structures (e.g., lists, dictionaries, databases) would you us
 
 What's the most interesting thing I learned this week? The most interesting I learned this week was that the Minute Man III is 60ft tall. Its silent and able to reach it's target in 30 minutes. Military officers work 24 hour shift. While the security team is on duty for 96 hour shift. And the Minuteman silos were built during the height of the cold war era.
 
+# February 24, 2025
+
+Technology can be used to help educators and service providers stay updated on involving youth language through programs and language learning apps. Socia media platforms can be used to provide a wealth of information on current yough language usage and slang. Online surveys and feedback forms can assist educators and service providersunderstand language preferences of the youth. Podcast and videos can offer a way for educators and service providers to stay updated on youth language. Lastly, webinars and virtual workshops cn provide valuable insights into evolving language of youth people.
+
