@@ -155,5 +155,5 @@ What's the most interesting thing I learned this week? The most interesting I le
 
 # February 24, 2025
 
-Technology can be used to help educators and service providers stay updated on involving youth language through programs and language learning apps. Socia media platforms can be used to provide a wealth of information on current yough language usage and slang. Online surveys and feedback forms can assist educators and service providersunderstand language preferences of the youth. Podcast and videos can offer a way for educators and service providers to stay updated on youth language. Lastly, webinars and virtual workshops cn provide valuable insights into evolving language of youth people.
+Technology can be used to help educators and service providers stay updated on involving youth language through programs and language learning apps. Socia media platforms can be used to provide a wealth of information on current youth language usage and slang. Online surveys and feedback forms can assist educators and service providersunderstand language preferences of the youth. Podcast and videos can offer a way for educators and service providers to stay updated on youth language. Lastly, webinars and virtual workshops cn provide valuable insights into evolving language of youth people.
 
