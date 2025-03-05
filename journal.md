@@ -157,3 +157,6 @@ What's the most interesting thing I learned this week? The most interesting I le
 
 Technology can be used to help educators and service providers stay updated on involving youth language through programs and language learning apps. Socia media platforms can be used to provide a wealth of information on current youth language usage and slang. Online surveys and feedback forms can assist educators and service providersunderstand language preferences of the youth. Podcast and videos can offer a way for educators and service providers to stay updated on youth language. Lastly, webinars and virtual workshops cn provide valuable insights into evolving language of youth people.
 
+# March 3, 2025 
+
+Last friday, the class was respectful and cooperative to the subsitute. I believe at the end of the day, the subsitute was proud of having us. If I could go back and change anything about how we acted, what would it be? I believe if I could go back and change anything on how we acted, I would change that we should be a bit quiet. What could I do to make sure the subsitute is respected and supported? I would try to ensure that we could tidy up the class, to make the teacher respected, because we want to make our impressions, that we want to make sure that the substitute feels respected as we enjoy having the substitute.
