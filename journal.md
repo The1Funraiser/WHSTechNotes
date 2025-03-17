@@ -160,3 +160,7 @@ Technology can be used to help educators and service providers stay updated on i
 # March 3, 2025 
 
 Last friday, the class was respectful and cooperative to the subsitute. I believe at the end of the day, the subsitute was proud of having us. If I could go back and change anything about how we acted, what would it be? I believe if I could go back and change anything on how we acted, I would change that we should be a bit quiet. What could I do to make sure the subsitute is respected and supported? I would try to ensure that we could tidy up the class, to make the teacher respected, because we want to make our impressions, that we want to make sure that the substitute feels respected as we enjoy having the substitute.
+
+# March 17, 2025
+
+What technology has I mostly used during the spring break? The technology I've been using the most over the spring break was Dragon Ball Xenoverse 2, Youtube, Netflix, Amazon, and Paramount. These technology has helped me in entertaining me over the spring break. And has challeneged me, which was Dragon Ball Xenoverse 2. How can I connect this to the lessons I learned in class? I can connect the lesson which would be python.
