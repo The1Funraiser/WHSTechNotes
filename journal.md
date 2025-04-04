@@ -168,3 +168,8 @@ What technology has I mostly used during the spring break? The technology I've b
 # March 24, 2025
 
  Additionally, consider the role of social media platforms and streaming services in transforming fan engagement during the tournament. How do these changes impact the traditional viewing experience and your connection to the games?” These changes impacted the traditional viewing experiences and your connection to the game as an negative experience. Why is this? Well, its due to the fact that AI can make a misjudgement call with predicting the the games outcome. In which could cause an unpredictability within the game, not knowing what could happen in a game.
+
+ # March 31, 2025
+
+ Right now, in this moment, I'd have to say that I'm feeling alright now. The most stressful part of school lately is the STAAR test. Things I would do or could do when I'm ever trying to relieve my stress is reminding myself that calms me, talking to people I know, and playing video games. One goal I'd like to have for this school year is maintaining my grades at a passing level. And I'm going to stay motivated to achieve this by keeping up with my work. 
+
