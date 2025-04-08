@@ -173,3 +173,6 @@ What technology has I mostly used during the spring break? The technology I've b
 
  Right now, in this moment, I'd have to say that I'm feeling alright now. The most stressful part of school lately is the STAAR test. Things I would do or could do when I'm ever trying to relieve my stress is reminding myself that calms me, talking to people I know, and playing video games. One goal I'd like to have for this school year is maintaining my grades at a passing level. And I'm going to stay motivated to achieve this by keeping up with my work. 
 
+# April 7, 2025
+
+How I think AI can help students study for tests like STAAR is AI powered tutroing systems offering real time feedback and explanations, enhancing students understanding on complex subjects. And AI can faciliate collaborative learning environments, which can allow students engage with peers and get support frim virtual study groups. A most useful feature of an AI tutor for me personally is a adaptive learning platforms, AI can analyze students performance and suggest specific practice questions that target needs that may need improvement. I believe I would use this, because this can help direct me into where I would need to imrpove on a subject.
