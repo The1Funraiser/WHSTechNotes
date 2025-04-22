@@ -176,3 +176,8 @@ What technology has I mostly used during the spring break? The technology I've b
 # April 7, 2025
 
 How I think AI can help students study for tests like STAAR is AI powered tutroing systems offering real time feedback and explanations, enhancing students understanding on complex subjects. And AI can faciliate collaborative learning environments, which can allow students engage with peers and get support frim virtual study groups. A most useful feature of an AI tutor for me personally is a adaptive learning platforms, AI can analyze students performance and suggest specific practice questions that target needs that may need improvement. I believe I would use this, because this can help direct me into where I would need to imrpove on a subject.
+
+# April 14, 2025
+
+I believe such bans can be detrimental to students, for an example like banning phones in different schools throughout the United States. Banning phones is detrimental to students, as if there a case of emergency, students are unable to use their phone for help.
+I'd say this policies would would make the students in a disruptive behavior. This would pose a problem to the students safety. I'd say this would help students focus more into learning, as the students would have less time with their phone. If this policy was implemented at my school, I'd react to this implemented in a negative manner, as I'll need my phone to help me in situtations
