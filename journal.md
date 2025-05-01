@@ -181,3 +181,12 @@ How I think AI can help students study for tests like STAAR is AI powered tutroi
 
 I believe such bans can be detrimental to students, for an example like banning phones in different schools throughout the United States. Banning phones is detrimental to students, as if there a case of emergency, students are unable to use their phone for help.
 I'd say this policies would would make the students in a disruptive behavior. This would pose a problem to the students safety. I'd say this would help students focus more into learning, as the students would have less time with their phone. If this policy was implemented at my school, I'd react to this implemented in a negative manner, as I'll need my phone to help me in situtations
+
+# April 28, 2025
+
+
+| Name     | Flavor | Occasion | Price |
+| :------- | :----- | :------- | :---- |
+| Sally    | Chocolate       | Graduation         | $35.00      | 
+| Michael  | Vanilla       | Farewell Party         | $37.00      | 
+| Emma     |  Carrot      | Birthday         | $39.00      | 
