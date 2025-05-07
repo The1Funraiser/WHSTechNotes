@@ -190,3 +190,11 @@ I'd say this policies would would make the students in a disruptive behavior. Th
 | Sally    | Chocolate       | Graduation         | $35.00      | 
 | Michael  | Vanilla       | Farewell Party         | $37.00      | 
 | Emma     |  Carrot      | Birthday         | $39.00      | 
+
+# May 5, 2025
+
+Claim- I formly believe that 100 average men could defeat 1 silverback gorilla.
+
+Evidence- The average silverack gorilla wights up to 300 to 420 pounds, while the average male weights 199.8 pounds. With this logic in mind, 100 men would roughly weigh roughly around 19,980 pounds. Also, gorillas lack the stamina compared to a human, as they aren't built for long lasting fight, usually lasting 3-4 minutes. Simply, the men could take this advantage and over power the gorilla. 
+
+Reasoning- This matters, because people want to cause trends, making people argue with one eachother on what would be the correct answer. 
