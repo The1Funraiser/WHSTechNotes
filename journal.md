@@ -198,3 +198,12 @@ Claim- I formly believe that 100 average men could defeat 1 silverback gorilla.
 Evidence- The average silverack gorilla wights up to 300 to 420 pounds, while the average male weights 199.8 pounds. With this logic in mind, 100 men would roughly weigh roughly around 19,980 pounds. Also, gorillas lack the stamina compared to a human, as they aren't built for long lasting fight, usually lasting 3-4 minutes. Simply, the men could take this advantage and over power the gorilla. 
 
 Reasoning- This matters, because people want to cause trends, making people argue with one eachother on what would be the correct answer. 
+
+# May 12, 2025 
+
+Currently, there has been a challenge surfacing online called the "chromebook challenge". Its a trend where it involves inserting objects like pencils into USB ports, which can cause seriously cause fire or even damage to the device. 
+
+Claim - I believe that the "Chromebook Challenge" is a unethical trend that is surfacing online.
+Evidence - The new trend, called the "Chromebook Challenge" has now apparently become popular in schools, but this can be a serious problem. For the reason is that students that are sticking objects for example, pencil led into the USB port can cause damage to the chromebook itself. As the chromebook could be broken, but the chromebook could also start smoking, which can cause a fire then maybe explode. This can cause harm to the student and others, this is not a fun and game trend, this is idiotic, because with the students breaking the chromebooks, the school will havee to pay for the damages that the students cause. 
+Reason - This goes with my claim, because sticking objects into the chromebook could lead to evaculation of the school, and could have emergency services to deal with the problem. With the destruction of school items, the school would have to pay for it, or even the student's parents would even have to pay for the damages. 
+
