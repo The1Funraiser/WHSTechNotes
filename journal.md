@@ -207,3 +207,9 @@ Claim - I believe that the "Chromebook Challenge" is a unethical trend that is s
 Evidence - The new trend, called the "Chromebook Challenge" has now apparently become popular in schools, but this can be a serious problem. For the reason is that students that are sticking objects for example, pencil led into the USB port can cause damage to the chromebook itself. As the chromebook could be broken, but the chromebook could also start smoking, which can cause a fire then maybe explode. This can cause harm to the student and others, this is not a fun and game trend, this is idiotic, because with the students breaking the chromebooks, the school will havee to pay for the damages that the students cause. 
 Reason - This goes with my claim, because sticking objects into the chromebook could lead to evaculation of the school, and could have emergency services to deal with the problem. With the destruction of school items, the school would have to pay for it, or even the student's parents would even have to pay for the damages. 
 
+# May 19, 2025
+
+I'm indeed ready for summer, because I can't wait to enjoy my time, and have fun with my friends and family members.
+
+
+
