@@ -211,5 +211,7 @@ Reason - This goes with my claim, because sticking objects into the chromebook c
 
 I'm indeed ready for summer, because I can't wait to enjoy my time, and have fun with my friends and family members.
 
+# September 2, 2025
 
+What are your thoughts on the new school cell phone law? I have somewhat of mix feelings about the new school cell phone law. Where you aren't able to take out your phone and use it on the axhool grounds. I'm adjusting to this new applied law by putting my phone away. And only using it in breakfeast, since school doesnt start until 7:40. Some challenges for students I'd say is that incase of a emergency, students arent able to check their notifications. And a benefit for a teacher is not worrying about a student not being on their phone.
 
