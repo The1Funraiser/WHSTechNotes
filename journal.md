@@ -219,7 +219,7 @@ What are your thoughts on the new school cell phone law? I have somewhat of mix 
 
 Think of a career you’re interested in (e.g., nursing, filmmaking, fashion design, engineering, sports). Describe how computer science could be valuable in that profession. Use an example from the video or one from your own life to support your claim.
 
-A career that I'm interested in filmmaking. As I've watched footages, I've noticed how well, the film makers catch the scene perfectly well. Due to the advancement of how technology has come to in capture the scene, to make the watchers interested in. And this thus makes me want to be in a career of filmmaking. I guess that computer science could be valuable in that profession. As computer science can be used to create energy, for example wind mills. 
+A career that I'm interested in filmmaking. As I've watched footages, I've noticed how well, the film makers catch the scene perfectly well. Due to the advancement of how technology has come to in capturing the scene, to make the watchers interested in. And this thus makes me want to be in a career of filmmaking. I guess that computer science could be valuable in that profession. As computer science can be used to create energy, for example wind mills. 
 
 
 
