@@ -221,6 +221,19 @@ Think of a career you’re interested in (e.g., nursing, filmmaking, fashion des
 
 A career that I'm interested in filmmaking. As I've watched footages, I've noticed how well, the film makers catch the scene perfectly well. Due to the advancement of how technology has come to in capturing the scene, to make the watchers interested in. And this thus makes me want to be in a career of filmmaking. I guess that computer science could be valuable in that profession. As computer science can be used to create energy, for example wind mills. 
 
+# September 15, 2025
+
+Claim - A Ai-powered litter detection, that can imrpove the efficenty of reducing the amount of waste and imrpove public waste management.
+
+Evidence - An Ai-powered project that detects litter can be helpful for authorities to be alerted of the situtation. And can also be collecting data, on solving the issues.
+
+# September 22, 2025
+
+Claim - 
+
+Evidence - 
+
+Reasoning - 
 
 
 
