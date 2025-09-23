@@ -229,11 +229,11 @@ Evidence - An Ai-powered project that detects litter can be helpful for authorit
 
 # September 22, 2025
 
-Claim - 
+Claim - Working in a virtual store for real money would be a good idea for the future of jobs.
 
-Evidence - 
+Evidence - Workers in virtual roles can experience a greater self relicance over their schedules. As with virtual reality, workers can work anywhere with internet connection. And in virtual reality, it could create new jobs.
 
-Reasoning - 
+Reasoning - With the evidence given, it matches with my claim, as it can be a benefitial for people, and could help companies.
 
 
 
