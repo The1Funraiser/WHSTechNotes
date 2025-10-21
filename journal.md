@@ -215,13 +215,13 @@ I'm indeed ready for summer, because I can't wait to enjoy my time, and have fun
 
 What are your thoughts on the new school cell phone law? I have somewhat of mix feelings about the new school cell phone law. Where you aren't able to take out your phone and use it on the axhool grounds. I'm adjusting to this new applied law by putting my phone away. And only using it in breakfeast, since school doesnt start until 7:40. Some challenges for students I'd say is that incase of a emergency, students arent able to check their notifications. And a benefit for a teacher is not worrying about a student not being on their phone.
 
-# September 8, 2025
+# September 6, 2025
 
 Think of a career you’re interested in (e.g., nursing, filmmaking, fashion design, engineering, sports). Describe how computer science could be valuable in that profession. Use an example from the video or one from your own life to support your claim.
 
 A career that I'm interested in filmmaking. As I've watched footages, I've noticed how well, the film makers catch the scene perfectly well. Due to the advancement of how technology has come to in capturing the scene, to make the watchers interested in. And this thus makes me want to be in a career of filmmaking. I guess that computer science could be valuable in that profession. As computer science can be used to create energy, for example wind mills. 
 
-# September 15, 2025
+# September 14, 2025
 
 Claim - A Ai-powered litter detection, that can imrpove the efficenty of reducing the amount of waste and imrpove public waste management.
 
@@ -235,6 +235,10 @@ Evidence - Workers in virtual roles can experience a greater self relicance over
 
 Reasoning - With the evidence given, it matches with my claim, as it can be a benefitial for people, and could help companies.
 
+# September 21, 2025
 
-
-
+| Name	Class	Seat | Class | Seat|
+| --------------- | ------| ----|
+|Franklin		       | Second| 91A | 
+| Hardeep		       | Third | 61F | 
+| Marla		         | First | 35B | 
