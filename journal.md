@@ -221,12 +221,6 @@ Think of a career you’re interested in (e.g., nursing, filmmaking, fashion des
 
 A career that I'm interested in filmmaking. As I've watched footages, I've noticed how well, the film makers catch the scene perfectly well. Due to the advancement of how technology has come to in capturing the scene, to make the watchers interested in. And this thus makes me want to be in a career of filmmaking. I guess that computer science could be valuable in that profession. As computer science can be used to create energy, for example wind mills. 
 
-# September 14, 2025
-
-Claim - A Ai-powered litter detection, that can imrpove the efficenty of reducing the amount of waste and imrpove public waste management.
-
-Evidence - An Ai-powered project that detects litter can be helpful for authorities to be alerted of the situtation. And can also be collecting data, on solving the issues.
-
 # September 22, 2025
 
 Claim - Working in a virtual store for real money would be a good idea for the future of jobs.
@@ -235,7 +229,19 @@ Evidence - Workers in virtual roles can experience a greater self relicance over
 
 Reasoning - With the evidence given, it matches with my claim, as it can be a benefitial for people, and could help companies.
 
-# September 21, 2025
+# October 6, 2025
+
+If I was in charge of my school, my technology and AI policy would be use for enhancing learning, with key components being clear guidelines for ethical use. I believe that games shouldn't be blocked on the school chromebook, as students should be able to play during their freetime. And if they are done with their work, and they don't have anything else to do. An example is like math or learning games, as students can use these websites to further enhance their learning capabilities. A rule for this would be focusing on teaching students to use AI responsibly and ethically, viewing it as a powerful tool rather than a shortcut.
+
+# October 14, 2025
+
+Claim - A Ai-powered litter detection, that can imrpove the efficenty of reducing the amount of waste and imrpove public waste management.
+
+Evidence - Numerous research projects and pilot programs provide evidence that AI-powered litter detection is a viable method for improving waste management efficiency and reducing the amount of waste. 
+
+Reason - An AI-powered litter detection system can improve waste management efficiency by providing real-time data to optimize cleaning efforts, identify littering hot spots, and assist in behavior change
+
+# October 20, 2025
 
 | Name	Class	Seat | Class | Seat|
 | --------------- | ------| ----|
