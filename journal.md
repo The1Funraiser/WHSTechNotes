@@ -248,3 +248,11 @@ Reason - An AI-powered litter detection system can improve waste management effi
 |Franklin		       | Second| 91A | 
 | Hardeep		       | Third | 61F | 
 | Marla		         | First | 35B | 
+
+# October 27, 2025
+
+| Name	          | Main Dish      |   Dessert    |
+| -------------- | ---------------| -------------|
+| Fiona		        |Gado Gado       |Creme Brulee  | 
+| Tobias		       |Shrimp Ceviche  |Creme Brule   | 
+| Leanne		       |Beef Wellington |Raspberry Tiramisu | 
