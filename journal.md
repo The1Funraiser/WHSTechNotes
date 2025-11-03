@@ -256,3 +256,10 @@ Reason - An AI-powered litter detection system can improve waste management effi
 | Fiona		        |Gado Gado       |Creme Brulee  | 
 | Tobias		       |Shrimp Ceviche  |Creme Brule   | 
 | Leanne		       |Beef Wellington |Raspberry Tiramisu | 
+
+# November 4, 2025
+
+1. Why is it a big deal if SNAP runs out of funding? If SNAP runs out of funding, millions of low-income people, especially children, the elderly, and individuals with disabilities, face immediate food insecurity, forcing them to choose between buying groceries or paying other essential bills like rent and utilities.
+2. How could technology help? Technology can make the process of getting food from source to plate much more efficient.
+3. Challenges that might exist is language barriers, the complexity of navigating multiple systems, and privacy concerns regarding location tracking and data usage.
+4. If I was a designer, I'd try reduce food waste at the source and efficiently redirect surplus food to those in need. It would operate through both a web interface and a mobile application, acting as a real-time logistics and networking hub for a sustainable food ecosystem.
