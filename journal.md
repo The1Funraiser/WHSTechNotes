@@ -263,3 +263,7 @@ Reason - An AI-powered litter detection system can improve waste management effi
 2. How could technology help? Technology can make the process of getting food from source to plate much more efficient.
 3. Challenges that might exist is language barriers, the complexity of navigating multiple systems, and privacy concerns regarding location tracking and data usage.
 4. If I was a designer, I'd try reduce food waste at the source and efficiently redirect surplus food to those in need. It would operate through both a web interface and a mobile application, acting as a real-time logistics and networking hub for a sustainable food ecosystem.
+
+# November 10, 2025
+
+What is the moment that I'm most proud of this, from this semester? The moment that I'm most proud of from this semesester is learning how to use Unity.How can this help me grow next year? Well, from learning how to use Unity, I'll be able to do better with working on projects. As incase in the future, if im working on a project that involves coding, I can do it.
