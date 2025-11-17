@@ -267,3 +267,7 @@ Reason - An AI-powered litter detection system can improve waste management effi
 # November 10, 2025
 
 What is the moment that I'm most proud of this, from this semester? The moment that I'm most proud of from this semesester is learning how to use Unity.How can this help me grow next year? Well, from learning how to use Unity, I'll be able to do better with working on projects. As incase in the future, if im working on a project that involves coding, I can do it.
+
+# November 17,
+
+Yes, I am looking forward to Thanksgiving break. I'm excited for eating food and seeing my family members. 
