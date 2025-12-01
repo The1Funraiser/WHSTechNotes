@@ -271,3 +271,7 @@ What is the moment that I'm most proud of this, from this semester? The moment t
 # November 17,
 
 Yes, I am looking forward to Thanksgiving break. I'm excited for eating food and seeing my family members. 
+
+# December 1, 2025
+
+What is one real job that uses drones? One real job that uses drones would be a commercial drone pilot. Commericial drone pilots use drones to capture aerial photos and videos, collect sensor data, and perform inspections for a wide range of industries like construction, real estate, and emergency response. The average salary for a commercial drone pilot in Texas is approximately $70,328 per year. And to become a commercial drone pilot, you must meet the Federal Aviation Administration's (FAA) requirements for a Remote Pilot Certificate, which include being at least 16 years old, able to read/speak/write English, and passing the Part 107 aeronautical knowledge test. 
