@@ -275,3 +275,7 @@ Yes, I am looking forward to Thanksgiving break. I'm excited for eating food and
 # December 1, 2025
 
 What is one real job that uses drones? One real job that uses drones would be a commercial drone pilot. Commericial drone pilots use drones to capture aerial photos and videos, collect sensor data, and perform inspections for a wide range of industries like construction, real estate, and emergency response. The average salary for a commercial drone pilot in Texas is approximately $70,328 per year. And to become a commercial drone pilot, you must meet the Federal Aviation Administration's (FAA) requirements for a Remote Pilot Certificate, which include being at least 16 years old, able to read/speak/write English, and passing the Part 107 aeronautical knowledge test. 
+
+# December 8, 2025
+
+What do I think that self-driving car? Self-driving cars might fail to recognize or correctly respond to a stopped school bus with its stop sign extended. Self-driving cars can fail to recognize stopped school buses due to sensor occlusion, challenging lighting/weather, unusual bus angles, or complex AI decision-making, where the system misinterprets the bus's status.
