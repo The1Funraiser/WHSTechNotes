@@ -279,3 +279,7 @@ What is one real job that uses drones? One real job that uses drones would be a 
 # December 8, 2025
 
 What do I think that self-driving car? Self-driving cars might fail to recognize or correctly respond to a stopped school bus with its stop sign extended. Self-driving cars can fail to recognize stopped school buses due to sensor occlusion, challenging lighting/weather, unusual bus angles, or complex AI decision-making, where the system misinterprets the bus's status.
+
+# January 6, 2026
+
+During the break, how did I use technology over the break? During in the break I used technology to keep me active. For example, I used my Xbox, in order to play games. Which technology kept me active.
