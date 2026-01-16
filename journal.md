@@ -283,3 +283,7 @@ What do I think that self-driving car? Self-driving cars might fail to recognize
 # January 6, 2026
 
 During the break, how did I use technology over the break? During in the break I used technology to keep me active. For example, I used my Xbox, in order to play games. Which technology kept me active.
+
+# January 12, 2026
+
+Why was Autcraft created, and what problem was it solving? Theharms of Unmoderated online spaces foster severe harms, including rampant hate speech, cyberbullying, and harassment. Also alongside the spread of dangerous misinformation, and scams. If developers ignore safety and inclusio, there would be an increased likelihood of data breaches. Like for example, thieves who have stolen names and Social Security numbers can use that information not only to sign up for new accounts in the victim's name. But can also to commit tax identity theft.
