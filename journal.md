@@ -287,3 +287,7 @@ During the break, how did I use technology over the break? During in the break I
 # January 12, 2026
 
 The harms of Unmoderated online spaces foster severe harms, including rampant hate speech, cyberbullying, and harassment. Also alongside the spread of dangerous misinformation, and scams. If developers ignore safety , there would be an increased likelihood of data breaches. Like for example, thieves who have stolen names and Social Security numbers can use that information not only to sign up for new accounts in the victim's name. But can also to commit tax identity theft. Another example would be Financial loss, compromised bank details and credit card numbers lead to unauthorized transactions.
+
+# February 10, 2026
+
+I barley enjoy football, why? Because, I dont find football as interesting as the other sports. I somewhat enjoyed the Super Bowl LX. My opinion was that the Patriots lost, which was expected.
