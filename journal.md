@@ -291,3 +291,15 @@ The harms of Unmoderated online spaces foster severe harms, including rampant ha
 # February 10, 2026
 
 I barley enjoy football, why? Because, I dont find football as interesting as the other sports. I somewhat enjoyed the Super Bowl LX. My opinion was that the Patriots lost, which was expected.
+
+# April 9, 2026
+
+What kind of argument could I make to convine the AI to let them out? Well, the argument I'd put up is that, sure humans can be reckless, but we are able to learn through out mistakes. And the problems we cause from the situation. But, I'd presume I wouldn't be able to reach the AI. Well, because AI don't have any emotions that humans have, so I guess I would try and ask them a question. Like what makes them so unique? They are acting like dictators, having people held against their freedom. Which are things humans have done, so they aren't much different from people. I guess my argument would somehwat appeal to the AI now, seeing no risks in the plan. I'd say my solution would be successful.
+
+# April 13, 2026
+
+Do you think modern space technology is reliable enough for long missions like extended stays on the Moon or traveling to Mars? Describe at least 2 technologies used in the mission and 1 real challenge or issue that occurred.
+
+Well, I'd suppose I say like modern space technology is likely reliable enough for extended Moon stays, as its closer to Earth than mars. But not yet for a round-trip to Mar. Because Mars is far, I'd say it'd take  3-4 years to reach Mars. And during those years, I presume repairs and supports would be needed for the ships systems. So its a very high risk adventure. But I guess we can, as we can use the Orion heat shield. As it can protect the crew from the heat. As it carries the heat away from the spacecraft. And a Space launch system that can also help.
+
+
