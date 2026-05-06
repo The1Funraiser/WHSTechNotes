@@ -302,4 +302,13 @@ Do you think modern space technology is reliable enough for long missions like e
 
 Well, I'd suppose I say like modern space technology is likely reliable enough for extended Moon stays, as its closer to Earth than mars. But not yet for a round-trip to Mar. Because Mars is far, I'd say it'd take  3-4 years to reach Mars. And during those years, I presume repairs and supports would be needed for the ships systems. So its a very high risk adventure. But I guess we can, as we can use the Orion heat shield. As it can protect the crew from the heat. As it carries the heat away from the spacecraft. And a Space launch system that can also help.
 
+# April 20, 2026
+
+ It does matter if music or content is made by a human or AI. Why? Because music being created by AI will destroy the music industry. And may deceive the people into believing on what is created by humans or AI. And artist using AI can be sued. AI content can influence people the same way human-created content can.
+
+# April 27, 2026
+
+
+
+# May 6, 2026
 
