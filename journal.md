@@ -308,7 +308,8 @@ Well, I'd suppose I say like modern space technology is likely reliable enough f
 
 # April 27, 2026
 
-
+This week, technology played a role in almost everything that we use in our everyday life, from sports, music, social media, gaming, school, etc. So, for gaming, AI has a bad influence in the way the industry uses gaming. As when people think of games, its like its terrible, as it has no personality in the game. As if the developers didn't put any love or passion into the game their creating, that they will put out into the public. In which the people will expect good things from the game, until they find out their game was made with AI.
 
 # May 6, 2026
 
+Well, in the NBA, there are of course drafts, where players are then transfered into a team for the play offs. So, the public gets hyped if their players or idol are geting drafted. Then the people go onto the internet, and celebrate, like hash-tagging, making tweets, or videos, to express their happyiness. After that, they'll go ahead and see if their team will either win or lose with the players thats been drafted off into playing a game. But, they're not at all interested in how the game is going, but the performance of their players.
