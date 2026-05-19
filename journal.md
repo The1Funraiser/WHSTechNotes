@@ -313,3 +313,13 @@ This week, technology played a role in almost everything that we use in our ever
 # May 6, 2026
 
 Well, in the NBA, there are of course drafts, where players are then transfered into a team for the play offs. So, the public gets hyped if their players or idol are geting drafted. Then the people go onto the internet, and celebrate, like hash-tagging, making tweets, or videos, to express their happyiness. After that, they'll go ahead and see if their team will either win or lose with the players thats been drafted off into playing a game. But, they're not at all interested in how the game is going, but the performance of their players.
+
+# May 11, 2026
+
+I grew up in Orange County, on the coast of California. I went to a school called.
+
+# May 18, 2026
+
+“How would you describe me to the cops if I went missing?”
+
+A classmate went missing in the school, his name is Brishawn Butler. He's 6'0 tall, and hes in 11th grade. Last time I saw him, he was wearing a grey hoodie & dark blue jeans. He's black, he was wearing black shoes with white on the side of the rims. But, he also has a brother, who's also in the same grade as him. He's his twin brother, not sure of his njame though. Tried to get contact from him, but wasn't able to get the information. Also, the last time Brishawn said to be was in the evening, and he said, " I'll be back tommorow." 
