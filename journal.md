@@ -316,7 +316,7 @@ Well, in the NBA, there are of course drafts, where players are then transfered 
 
 # May 11, 2026
 
-I grew up in Orange County, on the coast of California. I went to a school called.
+I improved in decision making.I grew up in Newport, in California. I went to a school called, mariners elementary school. I was in my science class, and I was doing a project. It was where I had to use a marble and a bunch of cardboard to create a marble run. And I had to simulate a marble running, but it had to come out slowly not fast. So the person with the slowest time wins. So, I made some decisions with the cardboard, as I cutted it out making loops, and ramps. And my decision making made me and my teamates be on the podium. And I gotten a prize, not sure what it was.
 
 # May 18, 2026
 
