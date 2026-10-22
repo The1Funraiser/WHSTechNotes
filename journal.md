@@ -322,4 +322,54 @@ I improved in decision making.I grew up in Newport, in California. I went to a s
 
 “How would you describe me to the cops if I went missing?”
 
-A classmate went missing in the school, his name is Brishawn Butler. He's 6'0 tall, and hes in 11th grade. Last time I saw him, he was wearing a grey hoodie & dark blue jeans. He's black, he was wearing black shoes with white on the side of the rims. But, he also has a brother, who's also in the same grade as him. He's his twin brother, not sure of his njame though. Tried to get contact from him, but wasn't able to get the information. Also, the last time Brishawn said to be was in the evening, and he said, " I'll be back tommorow." 
+A classmate went missing in the school, his name is Brishawn Butler. He's 6'0 tall, and hes in 11th grade. Last time I saw him, he was wearing a grey hoodie & dark blue jeans. He's black, he was wearing black shoes with white on the side of the rims. But, he also has a brother, who's also in the same grade as him. He's his twin brother, not sure of his njame though. Tried to get contact from him, but wasn't able to get the information. Also, the last time Brishawn said to be was in the evening, and he said, " I'll be back tomorrow." 
+
+
+
+
+import React, { useState } from "react";
+
+function Slides({ slides }) {
+  const [currentIdx, setCurrentIdx] = useState(0);
+  const currentSlide = slides[currentIdx];
+  console.log(currentSlide);
+
+  const handleNext = () => {
+    setCurrentIdx((idx) => Math.min(idx + 1, slides.length - 1));
+    console.log(currentIdx);
+  };
+
+  const handlePrev = () => {
+    setCurrentIdx((idx) => Math.max(idx - 1, 0));
+  };
+
+  const handleRestart = () => {
+    setCurrentIdx(0);
+  };
+
+
+  return (
+    <div>
+      <div id="navigation" className="text-center">
+        <button onClick={handleRestart} data-testid="button-restart" className="small outlined" disabled={currentIdx === 0}>
+          Restart
+        </button>
+        <button onClick={handlePrev} data-testid="button-prev" className="small" disabled={currentIdx === 0}>
+          Prev
+        </button>
+        <button onClick={handleNext} data-testid="button-next" className="small" disabled={currentIdx === slides.length - 1}>
+          Next
+        </button>
+      </div>
+      <div id="slide" className="card text-center">
+        <h1 data-testid="title">{currentSlide.title}</h1>
+        <p data-testid="text">{currentSlide.text}</p>
+      </div>
+    </div>
+  );
+}
+
+export default Slides;
+
+
+
